@@ -10,11 +10,15 @@ This project analyzes the purchase journey and financial performance of the **Go
 
  ## 🛠️ Technologies Used
 
-* Data Preparation:
+Data Preparation: ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-* Analysis & Visualization:
+Analysis & Visualization: ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)
 
-* AI Assistance:
+AI Assistance: ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white)
+
 
 ## 🏗️ Data Model & Relationships
 
