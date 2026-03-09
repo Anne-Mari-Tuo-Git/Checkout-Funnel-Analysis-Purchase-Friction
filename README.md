@@ -8,6 +8,16 @@ This project analyzes the purchase journey and financial performance of the **Go
 - **Dataset Content:** The dataset contains granular records of e-commerce activities, including **user events** (add-to-cart, checkout, purchase), **product catalog data** with pricing in USD, and **geographic and device information**.
 - **Key Focus:** Analysis of **12,545 "Add to Cart" events** to investigate the **49% friction point before checkout** and quantify its financial impact using custom **DAX measures**.
 
+## 🚧 Project Status
+
+This project is currently **in progress**.
+
+The current version focuses on:
+- Checkout funnel behavior
+- User event analysis
+- Initial data model development
+
+The **financial impact analysis and revenue modeling using DAX measures** are currently being developed and will be added in the next update.
 ---
 
 ## 🛠️ Technologies Used
