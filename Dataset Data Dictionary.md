@@ -1,4 +1,4 @@
-1. Events Table
+## 1. Events Table
 
 User interaction events captured during browsing sessions.
 
@@ -13,7 +13,7 @@ User interaction events captured during browsing sessions.
 | date          | Datetime    | Time Series   | Timestamp when the event occurred            | 2020-11-29 12:05:14                      | Used for temporal analysis |
 
 
-2. Items Table
+## 2. Items Table
 
 Product catalog information.
 
@@ -27,7 +27,7 @@ Product catalog information.
 | price_in_usd  | Integer   | Numerical     | Product price in USD                  | 1 – 313                                            | Used for revenue analysis |
 
 
-3. Users Table
+## 3. Users Table
 
 User-level information and lifetime value metrics.
 
