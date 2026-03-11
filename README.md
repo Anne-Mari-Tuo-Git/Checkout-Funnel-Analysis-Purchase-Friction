@@ -72,3 +72,12 @@ Relationships: Established a One-to-Many (*:1) relationship between the events a
 
 ![Screenshot Model View](https://github.com/user-attachments/assets/975942ce-8d66-4a3d-9db7-9b2900ba1bbf)
 
+---
+
+## :bulb: Key Findings
+
+• The biggest drop-off occurs between Add-to-Cart and Checkout (≈49%)
+• The United States accounts for the majority of purchases
+• Sales activity peaked in December, suggesting strong holiday season demand
+• Only 32% of users who add items to the cart complete a purchase
+
