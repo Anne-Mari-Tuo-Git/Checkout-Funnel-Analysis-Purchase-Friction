@@ -1,4 +1,4 @@
-# Google Merchandise Store: Checkout Funnel Analysis
+# Google Merchandise Store: E-commerce Conversion Funnel & Checkout Behavior Analysis
 
 ## 📌 Project Overview
 
@@ -70,14 +70,26 @@ users: Connected via user_id to track unique purchaser behavior.
 
 Relationships: Established a One-to-Many (*:1) relationship between the events and the item catalog, enabling granular revenue analysis.
 
-![Screenshot Model View](https://github.com/user-attachments/assets/975942ce-8d66-4a3d-9db7-9b2900ba1bbf)
+![Screenshot de la aplicación](capturas/Screenshot-Model-View.JPG)
 
 ---
+## Dashboard Overview
 
-## :bulb: Key Findings
+![Screenshot de la aplicación](capturas/Screenshot-Overview.JPG)
 
-• The biggest drop-off occurs between Add-to-Cart and Checkout (≈49%)
-• The United States accounts for the majority of purchases
-• Sales activity peaked in December, suggesting strong holiday season demand
-• Only 32% of users who add items to the cart complete a purchase
+## :mag_right: Insights
+
+The dataset contains 4,066 unique purchasers and 4.4K transactions.
+The overall conversion rate is 24.6% from add-to-cart to purchase.
+Sales activity peaked in December 2020, suggesting strong holiday demand.
+
+![Screenshot de la aplicación](capturas/Screenshot-Checkout-behav.JPG)
+
+## :mag_right: Insights
+
+The largest drop-off occurs between Add-to-Cart and Checkout (~49%).
+Only 51% of users who add items to the cart proceed to checkout.
+Once users reach checkout, 63% complete the purchase, indicating relatively strong checkout completion.
+Only 32% of users who add items to the cart complete a purchase.
+
 
