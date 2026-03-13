@@ -1,4 +1,4 @@
-# Google Merchandise Store: Checkout Funnel Analysis
+# Google Merchandise Store: E-commerce Conversion Funnel & Checkout Behavior Analysis
 
 ## 📌 Project Overview
 
