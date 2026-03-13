@@ -73,7 +73,11 @@ Relationships: Established a One-to-Many (*:1) relationship between the events a
 ![Screenshot de la aplicación](capturas/Screenshot-Model-View.JPG)
 
 ---
-## Dashboard Overview
+## :bar_chart: Dashboard Overview
+
+This section presents the Power BI dashboards developed to analyze user behavior, conversion performance, and sales patterns in an e-commerce dataset. The visualizations highlight key metrics, checkout funnel dynamics, and geographic sales distribution.
+
+### Overview 
 
 ![Screenshot de la aplicación](capturas/Screenshot-Overview.JPG)
 
@@ -82,6 +86,8 @@ Relationships: Established a One-to-Many (*:1) relationship between the events a
 The dataset contains 4,066 unique purchasers and 4.4K transactions.
 The overall conversion rate is 24.6% from add-to-cart to purchase.
 Sales activity peaked in December 2020, suggesting strong holiday demand.
+
+### Checkout bahaviour 
 
 ![Screenshot de la aplicación](capturas/Screenshot-Checkout-behav.JPG)
 
